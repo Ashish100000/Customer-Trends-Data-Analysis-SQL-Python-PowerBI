@@ -111,5 +111,43 @@ customer_behavior_sql_queries.sql
 customer_shopping_dashboard.pbix
 customer_behavior_analysis.ipynb
 customer_shopping_behavior.csv
+
+```
+
+## Dashboard Preview
+<img width="1311" height="731" alt="image" src="https://github.com/user-attachments/assets/7fbb98b7-78c1-4224-adb0-ffc73dfe88ba" />
+
+## How to Use
+### Python
+
+Run notebook for cleaning and analysis:
+```text id="d0y0r"
+customer_behavior_analysis.ipynb
+```
+### SQL
+
+Run SQL queries in PostgreSQL:
+```text id="d0y0r"
+customer_behavior_sql_queries.sql
+```
+###Power BI
+
+Open dashboard file:
+```text id="d0y0r"
+customer_shopping_dashboard.pbix
+```
+### Project Outcome
+
+This project demonstrates the complete analytics workflow:
+
+Raw Data → Cleaning → SQL Analysis → Dashboard → Business Insights
+
+## Author
+
+Ashish Upadhyay
+
+## Connect
+
+Open to internships, data analyst opportunities, and collaboration.
 dashboard_preview.png
 project_report.pdf
